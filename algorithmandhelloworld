@@ -1,0 +1,16 @@
+Yüz temizleme sözde kodu
+2- Yüz temizleme jelinin pompa kısmına bir elini pompanın çıkış kısmının altına diğer elini yatay koy ve pompadan aşağı üç kere bastır
+3- Eline gelen jeli yüzüne doğru götür ve oval hareketlerle 60 saniye boyunca iki elinle masaj yap
+4- Masaj bittikten sonra elinle musluğun vanasını kavra ve sağa çevir
+5- Suya doğru iki elini birleştir ve eline dolan suyu yüzüne doğru götür 
+6- aynı işlemi cildin jelden arınana kadar tekrarla
+7- Cildin arınınca elini sudan çek ve bir elini tekrar vanaya götürdükten sonra sola çevir
+8- Havluluktan havluyu al ve yüzüne götür dairesel hareketlerle kurula
+9- Havluluğa ellerini geri uzat ve havluyu yerine tak.
+
+
+
+public class Ders {
+    public static void main(String[ ] args) {
+        System.out.println("Merhaba sinif");
+    } }
