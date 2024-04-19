@@ -1,0 +1,23 @@
+//2311502231 Zehre İnce - Prime Number
+package zehrejava;
+import java.util.Scanner;
+public class odev {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Bir sayı giriniz:");
+        int sayi = scan.nextInt();
+        for(int j=2;j<sayi;j++) {
+        	if(sayi%j==0) {
+        		System.out.println("Sayı asal değil");
+        		break;
+        	}
+        	
+        	if(j==(sayi-1) && sayi%j!=0) {
+        		System.out.println("Sayı asaldır");
+        		break;
+        	}
+        	
+        }
+        
+    }
+}
